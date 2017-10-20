@@ -1,5 +1,5 @@
 
-
+# Ny oppgave starter etter hver "##"
 
 a = 2
 b = a
@@ -21,11 +21,11 @@ b[0] += 1
 print(a)
 
 ##
+
 a = [1, 2, 3]
 b = a
 c = b[0]
 c += 1
-print(b)
 print(a)
 
 ##
